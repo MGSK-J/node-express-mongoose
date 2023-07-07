@@ -1,0 +1,7 @@
+create a one application folder "node-express-mongo"
+npm init -y
+npm install express mongoose cors -save
+
+node-express-mongoose
+app server.js
+inside models, config, routes, controllers
